@@ -1,3 +1,3 @@
 # main.py
 def new_function_a():
-    print("This is a new function added by B to calculate something.")
+    print("This is a new function added by A to calculate something.")
