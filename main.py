@@ -1,3 +1,4 @@
 print("Hello, Git!")
 print("This is new branch.")
-print("changed by tj")
+def new_function_a():
+    print("This is a new function added by A to calculate something.")
